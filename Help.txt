@@ -1,0 +1,7 @@
+INSTALLATION
+
+1. Put all this in the root folder of your webserver.
+
+2. Then http://localhost/sinilugos/install access this address in your browser, and follow up process is complete.
+
+3. Done.

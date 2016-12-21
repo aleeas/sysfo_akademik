@@ -1,0 +1,5 @@
+msgid "404 Page Not Found"
+msgstr ""
+
+msgid "A PHP Error was encountered"
+msgstr ""

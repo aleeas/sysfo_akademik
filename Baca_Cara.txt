@@ -1,0 +1,7 @@
+INSTALASI
+
+1. Taruh semua folder ini di root webserver anda.
+
+2. Lalu akses alamat ini http://localhost/sinilugos/install di browser anda, dan ikuti sampai proses selesai.
+
+3. Selesai.
